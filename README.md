@@ -1,5 +1,9 @@
 Development website hosted here: https://limnotech.github.io/bigcz.org/
 
+### Design Notes
+- Ubuntu font (https://design.ubuntu.com/font/) 
+- match the color palette of our logo.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LimnoTech/bigcz.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
