@@ -3,4 +3,7 @@
 
 @import "{{ site.theme }}";
 
-
+.logo img{
+    border: 0;
+    padding: 0;
+}
