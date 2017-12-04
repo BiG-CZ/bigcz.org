@@ -51,7 +51,8 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p>For information about BiG CZ, contact {{ site.contact_name }} at {{ site.contact_email}}</p>
+        <p>For information about BiG CZ, contact <a href="{{ site.contact_url }}">{{ site.contact_name }}</a> 
+          at <a href="mailto:{{ site.contact_email }}">{{ site.contact.email }}</p>
         <p>(Add logos here?)</p>
       </footer>
     </div>

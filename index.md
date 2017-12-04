@@ -12,16 +12,16 @@ BiG CZ software <https://github.com/BiG-CZ> is being built upon the Observations
 
 The BiG CZ Data Portal is a web application for intuitive, high-performance map-based discovery, access, visualization and analysis of diverse data.
 
-[Read more about the BiG CZ Data Portal](/#)
+[Read more about the BiG CZ Data Portal](portal.html)
 
 ## BiG CZ Data Toolbox
 
 The BiG CZ Data Toolbox is a single, easy-to-install, easy-to-teach cross-platform package of the [ODM2 software ecosystem](https://github.com/ODM2/odm2-software-ecosystem) for managing, integrating and analyzing Critical Zone science data.
 
-[Read more about the BiG CZ Data Toolbox](/#)
+[Read more about the BiG CZ Data Toolbox](toolbox.html)
 
 ## BiG CZ Data Catalog
 
 The BiG CZ Data Catalog is designed to bridge data systems developed for multiple critical zone domains by providing a single search interface and API.
 
-[Read more about the BiG CZ Data Catalog](/#)
+[Read more about the BiG CZ Data Catalog](catalog.html)
