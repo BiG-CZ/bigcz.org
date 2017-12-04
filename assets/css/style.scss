@@ -6,7 +6,7 @@
 #logo {
     border: 0;
     padding: 0;
-    box-shadow: 0 0 200px #4cb35a;
+    box-shadow: 0 0 150px #4cb35a;
 }
 
 body {
@@ -27,4 +27,8 @@ body {
 
 * {
     font-family: 'Ubuntu', sans-serif !important;
+}
+
+#forkme_banner {
+    background: url(../images/blacktocat.png) #eeb200 no-repeat 95% 50%;
 }
