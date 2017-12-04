@@ -6,6 +6,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-githublink_url: "https://github.com/BiG-CZ" 
-contact_name: "Anthony Aufdenkampe, Ph.D."
-contact_email: "aaufdenkampe@limno.com"
+githublink_url: https://github.com/BiG-CZ
+author_name: Anthony Aufdenkampe, Ph.D.
+author_email: aaufdenkampe@limno.com
+author_url: http://www.limno.com/ourpeople

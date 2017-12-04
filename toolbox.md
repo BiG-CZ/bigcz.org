@@ -39,7 +39,7 @@ ODM2-Tools-Screenshot1-TimeSeriesFunctions
 ODM Tools time series exploration.
 A GUI desktop application for visualization and scripted quality control of environmental sensor observations data. Fully functional with ODM 1.1. ODM2 support has been added and is currently being tested.  <https://github.com/ODM2/ODMToolsPython>.
 
- ### ODM2 Web Services
+### ODM2 Web Services
 
 REST web services for sharing data from an ODM2 database via Web. <https://github.com/ODM2/WOFpy> (fully functional) and <https://github.com/ODM2/ODM2RESTfulWebServices> (under development).
 
