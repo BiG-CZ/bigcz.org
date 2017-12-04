@@ -1,0 +1,12 @@
+theme: jekyll-theme-slate
+title: BiG CZ
+description: The BiG CZ Data Software System
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+githublink_url: https://github.com/BiG-CZ
+author_name: Anthony Aufdenkampe, Ph.D.
+author_email: aaufdenkampe@limno.com
+author_url: http://www.limno.com/team/anthony-aufdenkampe-phd/

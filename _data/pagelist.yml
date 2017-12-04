@@ -1,0 +1,14 @@
+docs_list_title: BiG CZ Site
+docs:
+
+- title: Home
+  url: index.html
+
+- title: Portal
+  url: portal.html
+
+- title: Toolbox
+  url: toolbox.html
+
+- title: Catalog
+  url: catalog.html
