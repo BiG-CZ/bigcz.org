@@ -1,4 +1,4 @@
-Development website hosted here: https://limnotech.github.io/bigcz.org/
+Development website hosted here: http://bigcz.github.io/bigcz.org
 
 ### Design Notes
 - Ubuntu font (https://design.ubuntu.com/font/) 
