@@ -4,11 +4,11 @@ title: BiG CZ
 ---
 # The BiG CZ Data Software System
 
-The BiG CZ Data Scientific Software Integration project has integrated an open-source software stack specifically designed to solve the challenges of managing, sharing, analyzing and integrating diverse data from of biological and geological (BiG) disciplines for Critical Zone (CZ) science.
+The BiG CZ Data Scientific Software Integration project (NSF OAC awards [1339834](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1339834) & [1339793](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1339793)) has integrated an open-source software stack specifically designed to solve the challenges of managing, sharing, analyzing and integrating diverse data from of biological and geological (BiG) disciplines for Critical Zone (CZ) science.
 
-<img src="https://raw.githubusercontent.com/BiG-CZ/bigcz.org/master/assets/img/ODM2-logo-draft1_web.png" align="right" width="200">
+<img src="https://raw.githubusercontent.com/BiG-CZ/bigcz.org/master/assets/img/ODM2-logo-draft1_web_square.png" align="right" width="200">
 
-BiG CZ software <https://github.com/BiG-CZ> is being built upon the Observations Data Model v2.0 (ODM2, <http://ODM2.org>), a new information model aimed at facilitating greater interoperability across scientific disciplines and domain cyberinfrastructures that serve such diverse data as: hydrological time series, soil and sediment geochemistry, biodiversity surveys, oceanographic sensor profiles, multi-dimensional spectra, and more (Horsburgh et al. 2016).
+[BiG CZ Data software](https://github.com/BiG-CZ) is built upon the Observations Data Model v2.0 (ODM2, <http://ODM2.org>), a new information model aimed at facilitating greater interoperability across scientific disciplines and domain cyberinfrastructures that serve such diverse data as: hydrological time series, soil and sediment geochemistry, biodiversity surveys, oceanographic sensor profiles, multi-dimensional spectra, and more ([Horsburgh et al. 2016](http://dx.doi.org/10.1016/j.envsoft.2016.01.010); [Hsu et al. 2017](http://dx.doi.org/10.5334/dsj-2017-004)).
 
 ## BiG CZ Data Portal
 
