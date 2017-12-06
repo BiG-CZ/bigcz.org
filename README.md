@@ -1,4 +1,4 @@
-Development website located here: http://bigcz.github.io/bigcz.org
+Development website located here: https://big-cz.github.io/bigcz.org/
 
 ### Design Notes
 - Ubuntu font (https://design.ubuntu.com/font/) 
