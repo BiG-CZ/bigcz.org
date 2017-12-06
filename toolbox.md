@@ -3,11 +3,11 @@ layout: default
 title: Toolbox
 ---
 
-(Add images?)
-
 # BiG CZ Data Toolbox
 
 The BiG CZ Data Toolbox is a single, easy-to-install, easy-to-teach cross-platform package of the ODM2 software ecosystem and power functions for accessing [BiG CZ Data Catalog](http://bigcz.org/central/) and Web services.
+
+<img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/ODM2-Tools-Screenshot2-PowerFunctions.png?raw=true" align="right" width="300">
 
 It will serve cyber-savvy CZ scientists with powerful tools for local data management and publication and for access, analysis and modeling of data available via the [BiG CZ Data Portal](http://bigcz.org/portal/) and other data repositories.
 
@@ -34,14 +34,19 @@ Extensive ODM2 documentation and scripts for creating ODM2 relational databases 
 
 ### ODM Tools Python
 
-ODM2-Tools-Screenshot1-TimeSeriesFunctions
+<img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/ODM2-Tools-Screenshot1-TimeSeriesFunctions.png?raw=true" align="right" width="300">
 
 ODM Tools time series exploration.
 A GUI desktop application for visualization and scripted quality control of environmental sensor observations data. Fully functional with ODM 1.1. ODM2 support has been added and is currently being tested.  <https://github.com/ODM2/ODMToolsPython>.
 
 ### ODM2 Web Services
 
-REST web services for sharing data from an ODM2 database via Web. <https://github.com/ODM2/WOFpy> (fully functional) and <https://github.com/ODM2/ODM2RESTfulWebServices> (under development).
+Web services for sharing data from an ODM2 database using:
+
+* Water One Flow / WaterMLv1.1 web services (SOAP & REST) to read time series data from ODM2 
+  * WOFpy: <https://github.com/ODM2/WOFpy> (fully functional)
+* RESTful Webservices to read & write all data in ODM2
+  * ODM2RESTfulWebServices: <https://github.com/ODM2/ODM2RESTfulWebServices> (under development)
 
 **BiG CZ Python library** to enable power functions for working with data, including functions for direct access to BiG CZ Central web service APIs for searching and fetching data from BiG CZ Central and other catalogs.
 
