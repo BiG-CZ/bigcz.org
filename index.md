@@ -6,7 +6,7 @@ title: BiG CZ
 
 The BiG CZ Data Scientific Software Integration project has integrated an open-source software stack specifically designed to solve the challenges of managing, sharing, analyzing and integrating diverse data from of biological and geological (BiG) disciplines for Critical Zone (CZ) science.
 
-<img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/ODM2-logo-draft1_web.png" align="right" width="200">
+<img src="https://raw.githubusercontent.com/BiG-CZ/bigcz.org/master/assets/img/ODM2-logo-draft1_web.png" align="right" width="200">
 
 BiG CZ software <https://github.com/BiG-CZ> is being built upon the Observations Data Model v2.0 (ODM2, <http://ODM2.org>), a new information model aimed at facilitating greater interoperability across scientific disciplines and domain cyberinfrastructures that serve such diverse data as: hydrological time series, soil and sediment geochemistry, biodiversity surveys, oceanographic sensor profiles, multi-dimensional spectra, and more (Horsburgh et al. 2016).
 
