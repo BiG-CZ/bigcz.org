@@ -11,11 +11,13 @@ The BiG CZ Data Portal is a web application for intuitive, high-performance map-
 
 The BiG CZ Data Portal is available at <https://portal.bigcz.org>.
 
+
 ### Geospatial Data Analytics
 
 <img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/BiGCZDataPortal-Screenshot2-AreaAnalyze.png?raw=true" align="right" width="300">
 
 The BiG CZ Data Portal is built on the framework for the WikiWatershed / Model My Watershed Web Application <https://app.wikiwatershed.org>, which is built on a fully open-source stack available at <https://github.com/WikiWatershed>. As such, it provides visualization and geospatial analysis of the land cover, soil groups and mean monthly and mean annual climate for the selected area of interest. It also allows for visualization of streams and rivers.
+
 
  ### Multi-Catalog Free-Text Search for Datasets
  
