@@ -29,7 +29,7 @@ Extensive ODM2 documentation and scripts for creating ODM2 relational databases 
   - Schema diagrams for the current version of the ODM2.
   - <http://ODM2.github.io/ODM2/schemas/ODM2_Current/>
 - ODM2 on GitHub
-  - https://github.com/ODM2/odm2-software-ecosystem
+  - <https://github.com/ODM2/odm2-software-ecosystem>
 - Additional documentation on ODM2 software components is available in the respective repository.
 
 ### ODM Tools Python
@@ -43,10 +43,10 @@ A GUI desktop application for visualization and scripted quality control of envi
 
 Web services for sharing data from an ODM2 database using:
 
-* Water One Flow / WaterMLv1.1 web services (SOAP & REST) to read time series data from ODM2 
+* **Water One Flow / WaterMLv1.1 web services** (SOAP & REST) to read time series data from ODM2 
   * WOFpy: <https://github.com/ODM2/WOFpy> (fully functional)
-  * Try it at: <http://data.envirodiy.org/wofpy/>
-* RESTful Webservices to read & write all data in ODM2
+  * Explore our WOFpy deployment at: <http://data.envirodiy.org/wofpy/>
+* **ODM2 RESTful Webservices** to read & write all data in ODM2
   * ODM2RESTfulWebServices: <https://github.com/ODM2/ODM2RESTfulWebServices> (under development)
   
 ### BiG CZ Jupyter Notebooks
