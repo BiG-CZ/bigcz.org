@@ -23,7 +23,9 @@ The BiG CZ Data Portal is built on the framework for the WikiWatershed / Model M
  
 <img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/BiGCZDataPortal-Screenshot3-CINERGI.png?raw=true" align="right" width="300">
 
-After geospatial analysis of an area of interest, the user can search within that area for datasets contained in three separate data catalogs (CINERGI, HydroShare,  CUAHSI Water Data Center). Read about the [BiG CZ Data Catalog](http://bigcz.org/catalog/) for more info.
+After geospatial analysis of an area of interest, the user can search within that area for datasets contained in three separate data catalogs (CINERGI, HydroShare,  CUAHSI Water Data Center). The list can be filtered by free-text search and by time period coverage. A dataset can be selected for additional details, such as the dataset abstract and links to sources and web services.
+
+Read about the [BiG CZ Data Catalog](http://bigcz.org/catalog/) for more info.
 
 
 ### GitHub Repository
