@@ -13,6 +13,8 @@ It will serve cyber-savvy CZ scientists with powerful tools for local data manag
 
 The BiG CZ Data Toolbox is an easy-to-install software system that includes graphical user interface (GUI) applications within an independent Python environment built upon the Conda packaging system and Conda virtual environments.
 
+This materials was showcased at our capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017)
+
 ## BiG CZ Data Toolbox Components
 
 ### ODM2 Database
@@ -58,4 +60,18 @@ These Jupyter Notebooks in Python and R demonstrate and teach BiG CZ & ODM2 soft
 For a complete set of hands-on materials from the workshop, including all notebook files, supporting code, data files, and Conda environment files, `git` clone the following repository:
 
 * <https://github.com/BiG-CZ/wshp2017_tutorial_content>
+
+### ODM2 Dataset Ingest via YODA-Tools
+
+The [YODA Tools](https://github.com/ODM2/YODA-Tools) library, which is built upon the [ODM2PythonAPI](https://github.com/ODM2/ODM2PythonAPI), was developed to ingest datasets from our [YODA Excel Templates](https://github.com/ODM2/YODA-File/tree/master/excel_templates) and load these datasets into ODM2. YODA Tools has a simple desktop application, in addition to providing all functions in Python.
+
+Read more at <https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/5-ODM2DatasetsYODAspreadsheets.md>.
+
+
+### ODM2 Conda Channel
+
+The ODM2 Conda Channel provides easy-to-install options for installing our ODM2 Python libraries or a customized environment for the Anaconda or Miniconda scientific Python distribution.
+
+* ODM2 Conda Channel: <https://anaconda.org/odm2>
+* Instructions: <https://github.com/BiG-CZ/wshp2017_tutorial_content/blob/master/install-conda.md>
 
