@@ -5,7 +5,7 @@ title: Toolbox
 
 # BiG CZ Data Toolbox
 
-The BiG CZ Data Toolbox is a single, easy-to-install, easy-to-teach cross-platform package of the ODM2 software ecosystem and power functions for accessing [BiG CZ Data Catalog](http://bigcz.org/central/) and Web services.
+The BiG CZ Data Toolbox is a single, easy-to-install, easy-to-teach cross-platform package of the ODM2 software ecosystem and power functions for accessing [BiG CZ Data Catalog](http://bigcz.org/catalog) and Web services.
 
 <img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/ODM2-Tools-Screenshot2-PowerFunctions.png?raw=true" align="right" width="300">
 
@@ -45,9 +45,17 @@ Web services for sharing data from an ODM2 database using:
 
 * Water One Flow / WaterMLv1.1 web services (SOAP & REST) to read time series data from ODM2 
   * WOFpy: <https://github.com/ODM2/WOFpy> (fully functional)
+  * Try it at: <http://data.envirodiy.org/wofpy/>
 * RESTful Webservices to read & write all data in ODM2
   * ODM2RESTfulWebServices: <https://github.com/ODM2/ODM2RESTfulWebServices> (under development)
+  
+### BiG CZ Jupyter Notebooks
+These Jupyter Notebooks in Python and R demonstrate and teach BiG CZ & ODM2 software and database use, and were used as training materials for the capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017):
 
-**BiG CZ Python library** to enable power functions for working with data, including functions for direct access to BiG CZ Central web service APIs for searching and fetching data from BiG CZ Central and other catalogs.
+* <https://github.com/BiG-CZ/wshp2017_tutorial_content/tree/master/notebooks>
+* <https://github.com/BiG-CZ/BiG-CZ-Toolbox/tree/master/ipynotebooks>
 
-**BiG CZ iPython/Jupyter Notebooks** to demonstrate and teach the BiG CZ Python library, BiG CZ Central APIs, ODM2 database use and other components of the ODM2 software ecosystem.
+For a complete set of hands-on materials from the workshop, including all notebook files, supporting code, data files, and Conda environment files, `git` clone the following repository:
+
+* <https://github.com/BiG-CZ/wshp2017_tutorial_content>
+
