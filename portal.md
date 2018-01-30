@@ -16,9 +16,9 @@ The BiG CZ Data Portal is available at <https://portal.bigcz.org>.
 
 <img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/BiGCZDataPortal-Screenshot2-AreaAnalyze.png?raw=true" align="right" width="350">
 
-The BiG CZ Data Portal is built on the framework for the WikiWatershed / Model My Watershed Web Application <https://app.wikiwatershed.org>, which is built on a fully open-source stack available at <https://github.com/WikiWatershed>. 
+The BiG CZ Data Portal is built on the framework for the WikiWatershed / Model My Watershed Web Application <https://app.wikiwatershed.org>, which is built on a fully open-source software stack that is available at <https://github.com/WikiWatershed> and that leverages the high-performance [GeoTrellis](https://geotrellis.io/) geographic processing engine [deployed on the Amazon Web Services cloud infrastructure](https://wikiwatershed.org/documentation/mmw-tech/).
 
-The BiG CZ Data Portal thus provides visualization and geospatial analysis of the land cover, soil groups and mean monthly and mean annual climate for the selected area of interest. It also allows for visualization of streams and rivers.
+The BiG CZ Data Portal thus provides rapid visualization and geospatial analysis of national datasets for land cover, soil groups and mean monthly and mean annual climate for the selected area of interest. It also allows for visualization of streams and rivers.
 
 
 ### Multi-Catalog Free-Text Search for Datasets
