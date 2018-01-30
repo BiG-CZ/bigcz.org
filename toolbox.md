@@ -15,7 +15,27 @@ The BiG CZ Data Toolbox is an easy-to-install software system that includes grap
 
 This collection of software was showcased at our capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017). The complete content of the workshop, including slides, walk-through examples and installation packages, is available at [https://github.com/BiG-CZ/bigcz_wshp2017](https://github.com/BiG-CZ/bigcz_wshp2017).
 
+
 ## BiG CZ Data Toolbox Components
+
+### ODM2 Conda Channel
+
+The ODM2 Conda Channel provides easy-to-install options for installing our ODM2 Python libraries or a customized environment for the Anaconda or Miniconda scientific Python distribution.
+
+* ODM2 Conda Channel: <https://anaconda.org/odm2>
+* Instructions: <https://github.com/BiG-CZ/wshp2017_tutorial_content/blob/master/install-conda.md>
+
+
+### BiG CZ Jupyter Notebooks
+These Jupyter Notebooks in Python and R demonstrate and teach BiG CZ & ODM2 software and database use, and were used as training materials for the capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017):
+
+* <https://github.com/BiG-CZ/wshp2017_tutorial_content/tree/master/notebooks>
+* <https://github.com/BiG-CZ/BiG-CZ-Toolbox/tree/master/ipynotebooks>
+
+For a complete set of hands-on materials from the workshop, including all notebook files, supporting code, data files, and Conda environment files, `git` clone the following repository:
+
+* <https://github.com/BiG-CZ/wshp2017_tutorial_content>
+
 
 ### ODM2 Database
 
@@ -34,12 +54,14 @@ Extensive ODM2 documentation and scripts for creating ODM2 relational databases 
   - <https://github.com/ODM2/odm2-software-ecosystem>
 - Additional documentation on ODM2 software components is available in the respective repository.
 
-### ODM Tools Python
 
-<img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/ODM2-Tools-Screenshot1-TimeSeriesFunctions.png?raw=true" align="right" width="300">
+### ODM2 Python Application Programing Interface (API)
 
-ODM Tools time series exploration.
-A GUI desktop application for visualization and scripted quality control of environmental sensor observations data. Fully functional with ODM 1.1. ODM2 support has been added and is currently being tested.  <https://github.com/ODM2/ODMToolsPython>.
+A set of Python functions that provides data read/write access to an ODM2 database by leveraging SQLAlchemy. It is cross-platform compatible and supports many of the additional software components of the ODM2 & BiG CZ software systems. It can be used directly from a Jupyter notebook or other Python script, or to build complex desktop or web applications.
+
+- Documentation: [http://odm2.github.io/ODM2PythonAPI/](http://odm2.github.io/ODM2PythonAPI/)
+- Code: [https://github.com/ODM2/ODM2PythonAPI](https://github.com/ODM2/ODM2PythonAPI)
+
 
 ### ODM2 Web Services
 
@@ -47,19 +69,10 @@ Web services for sharing data from an ODM2 database using:
 
 * **Water One Flow / WaterMLv1.1 web services** (SOAP & REST) to read time series data from ODM2 
   * WOFpy: <https://github.com/ODM2/WOFpy> (fully functional)
-  * Explore our WOFpy deployment at: <http://data.envirodiy.org/wofpy/>
-* **ODM2 RESTful Webservices** to read & write all data in ODM2
-  * ODM2RESTfulWebServices: <https://github.com/ODM2/ODM2RESTfulWebServices> (under development)
+  * Explore documentation and examples of one of our WOFpy deployments at: <http://data.envirodiy.org/wofpy/>
+* **ODM2 RESTful Webservices** to read & write all data in ODM2. Built on the [ODM2PythonAPI](https://github.com/ODM2/ODM2PythonAPI).
+  * ODM2RESTfulWebServices: <https://github.com/ODM2/ODM2RESTfulWebServices>
   
-### BiG CZ Jupyter Notebooks
-These Jupyter Notebooks in Python and R demonstrate and teach BiG CZ & ODM2 software and database use, and were used as training materials for the capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017):
-
-* <https://github.com/BiG-CZ/wshp2017_tutorial_content/tree/master/notebooks>
-* <https://github.com/BiG-CZ/BiG-CZ-Toolbox/tree/master/ipynotebooks>
-
-For a complete set of hands-on materials from the workshop, including all notebook files, supporting code, data files, and Conda environment files, `git` clone the following repository:
-
-* <https://github.com/BiG-CZ/wshp2017_tutorial_content>
 
 ### ODM2 Dataset Ingest via YODA-Tools
 
@@ -68,10 +81,10 @@ The [YODA Tools](https://github.com/ODM2/YODA-Tools) library, which is built upo
 Read more at <https://github.com/BiG-CZ/bigcz_wshp2017/blob/master/Topics/5-ODM2DatasetsYODAspreadsheets.md>.
 
 
-### ODM2 Conda Channel
+### ODM Tools Python
 
-The ODM2 Conda Channel provides easy-to-install options for installing our ODM2 Python libraries or a customized environment for the Anaconda or Miniconda scientific Python distribution.
+<img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/ODM2-Tools-Screenshot1-TimeSeriesFunctions.png?raw=true" align="right" width="300">
 
-* ODM2 Conda Channel: <https://anaconda.org/odm2>
-* Instructions: <https://github.com/BiG-CZ/wshp2017_tutorial_content/blob/master/install-conda.md>
+ODM Tools time series exploration.
+A GUI desktop application for visualization and scripted quality control of environmental sensor observations data. Fully functional with ODM 1.1. ODM2 support has been added and is currently being tested.  <https://github.com/ODM2/ODMToolsPython>.
 
