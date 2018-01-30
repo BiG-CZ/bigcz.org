@@ -13,7 +13,7 @@ It will serve cyber-savvy CZ scientists with powerful tools for local data manag
 
 The BiG CZ Data Toolbox is an easy-to-install software system that includes graphical user interface (GUI) applications within an independent Python environment built upon the Conda packaging system and Conda virtual environments.
 
-This collection of software was showcased at our capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017). The complete content of the workshop, including slides, walk-through examples and installation packages, is available at https://github.com/BiG-CZ/bigcz_wshp2017.
+This collection of software was showcased at our capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017). The complete content of the workshop, including slides, walk-through examples and installation packages, is available at [https://github.com/BiG-CZ/bigcz_wshp2017](https://github.com/BiG-CZ/bigcz_wshp2017).
 
 ## BiG CZ Data Toolbox Components
 
