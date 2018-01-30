@@ -10,6 +10,8 @@ The BiG CZ Data Scientific Software Integration project (NSF OAC awards [1339834
 
 [BiG CZ Data software](https://github.com/BiG-CZ) is built upon the Observations Data Model v2.0 (ODM2, <http://ODM2.org>), a new information model aimed at facilitating greater interoperability across scientific disciplines and domain cyberinfrastructures that serve such diverse data as: hydrological time series, soil and sediment geochemistry, biodiversity surveys, oceanographic sensor profiles, multi-dimensional spectra, and more ([Horsburgh et al. 2016](http://dx.doi.org/10.1016/j.envsoft.2016.01.010); [Hsu et al. 2017](http://dx.doi.org/10.5334/dsj-2017-004)).
 
+The BiG CZ Data and ODM2 software collection was showcased at our capstone [2017 BiG-CZ / ODM2 Hands-On Workshop](https://github.com/BiG-CZ/bigcz_wshp2017), held November 15-16, 2017 at University of California Riverside. The complete content of the workshop, including slides, walk-through examples and installation packages, is available at https://github.com/BiG-CZ/bigcz_wshp2017.
+
 ## BiG CZ Data Portal
 
 The BiG CZ Data Portal is a web application for intuitive, high-performance map-based discovery, access, visualization and analysis of diverse data.
